@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'Este programa determina el limite de compra de de varios productos - Creado por santiago Hernández'
+5
+1
+6
+precio
+6
+2
+14
+total_producto
+1
+0
+12
+total_precio
+1
+0
+7
+0
+1
+13
+precio>500000
+9
+1
+13
+precio<500000
+6
+2
+12
+total_precio
+19
+total_precio+precio
+14
+total_producto
+16
+total_producto+1
+4
+1
+41
+'ingrese el valor del siguiente producto'
+5
+1
+6
+precio
+11
+13
+4
+1
+22
+'No alcanza el dinero'
+13
+4
+1
+84
+'el precio total es: ',total_precio,'  la cantidad de productos es: ',total_producto
+1

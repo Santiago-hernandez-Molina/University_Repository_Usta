@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+"Determinar indice presión sistolica"
+4
+1
+54
+"Ingresar el indice de presión sistolica del paciente"
+5
+1
+7
+presion
+7
+0
+1
+10
+presion<=0
+7
+0
+1
+10
+presion<64
+7
+0
+1
+12
+presion<=120
+7
+0
+1
+12
+presion<=139
+7
+0
+1
+12
+presion<=159
+7
+0
+1
+11
+presion>160
+13
+4
+1
+46
+"Dato erróneo ingrese un valor inferior a 160"
+13
+13
+4
+1
+35
+"El paciente sufre de hipertensión"
+13
+13
+4
+1
+38
+"El paciente sufre de prehipertensión"
+13
+13
+4
+1
+22
+"su presión es normal"
+13
+13
+4
+1
+28
+"Usted sufre de hipotensión"
+13
+13
+4
+1
+58
+"Dato erróneo la presión debe tener un valor superior a 0"
+13
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+"Esta aplicación fue creada por: Santiago Hernández Molina consiste en identificar el mayor de 3 números"
+4
+1
+34
+"Ingrese el valor de tres números"
+5
+1
+5
+A,B,C
+7
+0
+1
+10
+A=B or C=A
+7
+0
+1
+10
+A>B or A>C
+7
+0
+1
+10
+B>A or B>C
+4
+1
+17
+"el mayor es: ",C
+13
+4
+1
+17
+"El mayor es: ",B
+13
+13
+4
+1
+17
+"El mayor es: ",A
+13
+13
+4
+1
+37
+"ERROR no pueden ser números iguales"
+13
+1

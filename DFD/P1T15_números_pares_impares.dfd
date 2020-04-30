@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+"Este programa fue creado por: Santiago Hernández Molina consiste en determinar si un número es par o impar"
+4
+1
+19
+"Ingrese el número"
+5
+1
+1
+n
+6
+1
+7
+residuo
+7
+n mod 2
+7
+0
+1
+9
+residuo=1
+4
+1
+27
+"El número: ", n, " es par"
+13
+4
+1
+28
+"El número: ",n, " es impar"
+13
+1

@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Este programa calcula el salario promedio total y mas alto de una empresa'
+4
+1
+31
+'ingrese el número de empleados
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+36
+'ingrese el salario del  empleado',i
+5
+1
+7
+salario
+4
+1
+31
+'ingrese los dias trabajados',i
+5
+1
+5
+diasT
+10
+1

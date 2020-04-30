@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+"Este programa me cálcula la nota final del semestre"
+4
+1
+43
+"ingrese la primera nota por valor del 20%"
+5
+1
+2
+n1
+4
+1
+43
+"ingrese la segunda nota por valor del 25%"
+5
+1
+2
+n2
+4
+1
+43
+"ingrese la tercera nota por valor del 25%"
+5
+1
+2
+n3
+4
+1
+42
+"ingrese la cuarta nota por valor del 30%"
+5
+1
+2
+n4
+7
+0
+1
+60
+n1<0 or n1>5 or n2<0 or n2>5 or n3<0 or n3>5 or n4<0 or n4>5
+6
+1
+5
+total
+30
+n1*0.2+n2*0.25+n3*0.25+n4*0.30
+4
+1
+26
+"su nota final fue", total
+13
+4
+1
+38
+"ERROR escriba bien los datos PENDEJO"
+13
+1

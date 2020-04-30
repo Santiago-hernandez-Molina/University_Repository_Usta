@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+147
+'Este programa determina cuantos pasajeros fueron transportados y cuanto dinero se obtuvo en la ruta de un autobus - Creado por Santiago Hernández'
+4
+1
+30
+'ingrese el número de paradas'
+5
+1
+1
+N
+6
+2
+15
+total_pasajeros
+1
+0
+13
+total_boletos
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+76
+'indique cuantos pasajeros se subieron y cuantos se bajaron en la parada ',i
+5
+1
+5
+ps,pb
+6
+2
+15
+total_pasajeros
+18
+total_pasajeros+ps
+14
+total_boletas 
+19
+total_pasajeros*150
+10
+4
+1
+91
+'El total pasajeros es:  ',  total_pasajeros,'  El total boletas es:  ',  total_boletas,'$'
+1

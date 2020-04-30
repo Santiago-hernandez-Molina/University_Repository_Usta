@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+'Este program muestra los números impares desde 11 hasta 99 - Creado por Santiago Hernández'
+8
+1
+1
+i
+1
+2
+11
+1
+2
+99
+1
+1
+2
+6
+1
+7
+residuo
+7
+i mod 2
+7
+0
+1
+9
+residuo=1
+13
+4
+1
+27
+'Los números impares son',i
+13
+10
+1

@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+"Este programa simula un login de una aplicacion - creado por Santiago Hernández - ingrese su clave"
+5
+1
+1
+C
+6
+1
+8
+attempts
+1
+1
+9
+1
+44
+C!=352 and C!=259 and C!=569 and attempts>=3
+4
+1
+55
+"Contraseña es erronea vuelva a ingresar su contraseña"
+5
+1
+1
+C
+6
+1
+8
+attempts
+10
+attempts+1
+11
+7
+0
+1
+10
+attempts=4
+4
+1
+85
+"su cuenta sera bloqueada contacte a servicio al cliente para solucionar su problema"
+13
+4
+1
+37
+"Bienvenido de nuevo usuario 0028383"
+13
+1

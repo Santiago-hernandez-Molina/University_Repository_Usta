@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+102
+"Este programa fue creado por: Santiago Hernández Molina consite identificar el sueldo de un empleado"
+4
+1
+29
+"Ingrese el valor del sueldo"
+5
+1
+1
+s
+4
+1
+38
+"Ingrese el número de días trabajados"
+5
+1
+1
+d
+7
+0
+1
+18
+s<0 or d>30 or d<0
+6
+1
+6
+sueldo
+8
+(s/30)*d
+4
+1
+38
+"El salario del empleado es: ", sueldo
+13
+4
+1
+29
+"ERROR: ponga bien los datos"
+13
+1

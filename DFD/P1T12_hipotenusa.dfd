@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+"Este programa calcula la hipotenusa de un triangulo"
+4
+1
+32
+"ingrese el valor de el cateto1"
+5
+1
+7
+cateto1
+4
+1
+30
+"ingrese el valor del cateto2"
+5
+1
+7
+cateto2
+6
+1
+10
+hipotenusa
+41
+sqrt((cateto1*cateto1)+(cateto2*cateto2))
+4
+1
+30
+"la hipotenusa es", hipotenusa
+1

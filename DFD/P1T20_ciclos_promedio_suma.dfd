@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+88
+'Este programa fue creado por: Santiago Hernández consiste en sumar y promediar números'
+6
+2
+4
+suma
+1
+0
+8
+promedio
+1
+0
+4
+1
+28
+'ingrese el número de datos'
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+4
+1
+19
+'ingrese el número'
+5
+1
+6
+Numero
+6
+1
+4
+suma
+11
+suma+Numero
+10
+6
+1
+8
+promedio
+6
+suma/N
+4
+1
+50
+'la suma es: ',suma,'  el promedio es:  ',promedio
+1

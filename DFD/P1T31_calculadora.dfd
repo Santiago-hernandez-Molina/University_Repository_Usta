@@ -1,0 +1,134 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+90
+"the program simulate the functions of a calculator - create by Santiago Hernández Molina"
+6
+1
+6
+option
+1
+9
+9
+1
+9
+option!=0
+4
+1
+67
+"write 1 to add 2 to substract 3 to multiply 4 to divide 0 to exit"
+5
+1
+6
+option
+7
+0
+1
+8
+option=1
+7
+0
+1
+8
+option=2
+7
+0
+1
+8
+option=3
+7
+0
+1
+8
+option=4
+4
+1
+18
+"option not found"
+13
+4
+1
+35
+"input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+15
+number1/number2
+4
+1
+6
+result
+13
+13
+4
+1
+35
+"input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+15
+number1*number2
+4
+1
+6
+result
+13
+13
+4
+1
+35
+"input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+16
+number1- number2
+4
+1
+6
+result
+13
+13
+4
+1
+35
+"input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+15
+number1+number2
+4
+1
+6
+result
+13
+11
+1
