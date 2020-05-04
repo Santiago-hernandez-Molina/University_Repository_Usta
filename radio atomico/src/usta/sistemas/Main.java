@@ -48,6 +48,7 @@ public class Main {
 
 
     }
+
     public static int f_sc(){
         Scanner keyboard = new Scanner(System.in);
         int Sc;
