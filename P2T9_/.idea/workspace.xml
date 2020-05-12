@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b039f0ce-7fcc-4fa4-9253-abaf0fb03076" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1adHXst9t5OFcvZSZNyKxCghtrM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/P2T1_Temperature" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="P2T9_" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b039f0ce-7fcc-4fa4-9253-abaf0fb03076" name="Default Changelist" comment="" />
+      <created>1587058595345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587058595345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="117" key="FileChooserDialogImpl" timestamp="1587077996940">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587077996940" />
+    <state x="180" y="0" key="SettingsEditor" timestamp="1587058641379">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="180" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1587058641379" />
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1587058615872">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587058615872" />
+  </component>
+</project>
