@@ -7,13 +7,13 @@ public class Main {
     public static void main(String[] args) {
         // Author:Santiago Hernandez Molina
         //Date:06 /05/2020
-        //Description: this software show how many
+        //Description: this software show how many numbers are even and odd
         int[] t = f_fill_vector(f_menu());
         f_show_even_numbers(t);
     }
 
     public static int f_menu() {
-        //This method show thw menu of the software and return the total numbers
+        //This method show the menu of the software and return the total numbers
         System.out.println(" ___________________________________");
         System.out.println("|  SoftNumbersOddEven               |");
         System.out.println("| Version 1.0 06-05-2020            |");

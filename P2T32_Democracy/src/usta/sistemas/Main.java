@@ -16,8 +16,8 @@ public class Main {
     public static int f_menu() {
         //This method show the menu of the software adn return the number of candidates
         System.out.println(" ___________________________________");
-        System.out.println("|  SoftReverseOrder                 |");
-        System.out.println("| Version 1.0 07-05-2020            |");
+        System.out.println("|  SoftDemocracy                    |");
+        System.out.println("| Version 1.0 13-05-2020            |");
         System.out.println("| Created by Santiago Hernández     |");
         System.out.println("|___________________________________|");
         System.out.println("                                     ");

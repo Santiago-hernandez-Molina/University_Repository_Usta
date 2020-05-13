@@ -18,7 +18,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2T3_Area_of_geometric_figures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2T03_Area_of_geometric_figures" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -63,10 +63,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="117" key="FileChooserDialogImpl" timestamp="1588551460654">
+    <state x="460" y="117" key="FileChooserDialogImpl" timestamp="1589386107271">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588551460654" />
+    <state x="460" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1589386107271" />
     <state width="1316" height="174" key="GridCell.Tab.0.bottom" timestamp="1588856948852">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

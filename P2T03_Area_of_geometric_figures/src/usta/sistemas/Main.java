@@ -28,7 +28,7 @@ public class Main {
         //This method show thw menu of the software
 
         System.out.println(" ___________________________________");
-        System.out.println("|  SoftConvert                      |");
+        System.out.println("|  SoftAreaGeometric                |");
         System.out.println("| Version 1.0 14-04-2020            |");
         System.out.println("| Created by Santiago Hernández     |");
         System.out.println("|___________________________________|");

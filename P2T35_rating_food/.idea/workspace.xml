@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55b81292-9c8d-4915-bf0d-e5e4b00557fa" name="Default Changelist" comment="" />
+    <list default="true" id="a6784e5f-2412-4746-8da2-08b29f5204b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +10,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1aXFA6EjuXgtF3XxKZ5q1fezLvG" />
+  <component name="ProjectId" id="1brG6yZ162K9dtIbqHGqVSiVHs3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2T04_compare_numbers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2T31_Skinny_and_fat" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
-      <module name="P2T3_Area_of_geometric_figures" />
+      <module name="P2T35_rating_food" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -42,38 +44,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55b81292-9c8d-4915-bf0d-e5e4b00557fa" name="Default Changelist" comment="" />
-      <created>1586873884881</created>
+      <changelist id="a6784e5f-2412-4746-8da2-08b29f5204b4" name="Default Changelist" comment="" />
+      <created>1589382627919</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586873884881</updated>
+      <updated>1589382627919</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="117" key="FileChooserDialogImpl" timestamp="1589386154831">
+    <state x="39" y="21" key="#Inspections" timestamp="1589384256155">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1589386154831" />
-    <state width="1316" height="174" key="GridCell.Tab.0.bottom" timestamp="1588551527497">
+    <state x="39" y="21" key="#Inspections/0.0.1360.728@0.0.1360.728" timestamp="1589384256155" />
+    <state x="227" y="117" key="FileChooserDialogImpl" timestamp="1589386187149">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1316" height="174" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588551527497" />
-    <state width="1316" height="174" key="GridCell.Tab.0.center" timestamp="1588551527497">
+    <state x="227" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1589386187149" />
+    <state width="834" height="169" key="GridCell.Tab.0.bottom" timestamp="1589385934387">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1316" height="174" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588551527497" />
-    <state width="1316" height="174" key="GridCell.Tab.0.left" timestamp="1588551527497">
+    <state width="834" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589385934387" />
+    <state width="834" height="169" key="GridCell.Tab.0.center" timestamp="1589385934387">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1316" height="174" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588551527497" />
-    <state width="1316" height="174" key="GridCell.Tab.0.right" timestamp="1588551527497">
+    <state width="834" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589385934387" />
+    <state width="834" height="169" key="GridCell.Tab.0.left" timestamp="1589385934387">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1316" height="174" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588551527497" />
-    <state x="62" y="0" key="new project wizard" timestamp="1586877532335">
+    <state width="834" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589385934387" />
+    <state width="834" height="169" key="GridCell.Tab.0.right" timestamp="1589385934387">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1586877532335" />
+    <state width="834" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589385934387" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589383456829">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1589383456829" />
   </component>
 </project>
