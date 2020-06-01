@@ -28,7 +28,7 @@ public class Main {
         //This method print the menu of software and determinate the N employees
         System.out.println(" ___________________________________");
         System.out.println("|  SofSmartPeople.inc              |");
-        System.out.println("| Version 1.0 26-05-2020            |");
+        System.out.println("| Version 2.0 26-05-2020            |");
         System.out.println("| Created by Santiago Hernández     |");
         System.out.println("|___________________________________|");
         System.out.println("                                     ");
