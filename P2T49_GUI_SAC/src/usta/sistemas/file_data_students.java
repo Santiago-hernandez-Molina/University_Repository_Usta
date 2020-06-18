@@ -53,7 +53,7 @@ public class file_data_students {
                 myFile2=null;
                 matrix_e=new String[total_lines][3];
                 myFile2 = new Scanner(myFile);
-                while (myFile2.hasNextLine()){
+                while (myFile2.hasNextLine()){//while the document has line of txt myFile2 read the document
                     linea_de_txt=myFile2.nextLine();
                     separador1=linea_de_txt.indexOf("|");
                     if (separador1!=-1) {

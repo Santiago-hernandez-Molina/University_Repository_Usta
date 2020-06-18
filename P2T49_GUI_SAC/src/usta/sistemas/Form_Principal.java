@@ -9,10 +9,11 @@ import javax.swing.JPanel;
 
 public class Form_Principal extends JFrame {
 
-    fondo Fondo= new fondo();
+    fondo Fondo = new fondo();//this is the object that allow insert image
+
     public Form_Principal() {
 
-        this.setContentPane(Fondo);
+        this.setContentPane(Fondo);//this line put the image background
 
 
         setLayout(new BorderLayout());
@@ -75,7 +76,6 @@ public class Form_Principal extends JFrame {
         panel_izq.add(infoButton);
 
 
-
         //creamos el 4to boton
         panel_izq.add(new JLabel(""));
         JButton buttonCS = new JButton("ingresar edificio");
@@ -88,8 +88,6 @@ public class Form_Principal extends JFrame {
             }
         });
         panel_izq.add(buttonCS);
-
-
 
 
         //creamos el quinto boton
@@ -115,9 +113,6 @@ public class Form_Principal extends JFrame {
         add(panel_inf, BorderLayout.SOUTH);
 
 
-
-
-
         setVisible(true);
         setResizable(false);
         setBounds(0, 0, 600, 400);
@@ -133,14 +128,16 @@ public class Form_Principal extends JFrame {
     private void f_open_Form2(java.awt.event.ActionEvent evt) {
         Form_show_data_venue form_show_venue1 = new Form_show_data_venue(this);
     }
-    class fondo extends JPanel{
-        private Image imagen;
-        @Override
-        public void paint(Graphics g){
-            imagen = new ImageIcon(getClass().getResource("/imagenes/fondo.jpg")).getImage();
-            g.drawImage(imagen,0,0,getWidth(),getHeight(),this);
 
-            setOpaque(false);
+    class fondo extends JPanel {//This class import the image to the code
+        private Image imagen;
+
+        @Override
+        public void paint(Graphics g) {
+            imagen = new ImageIcon(getClass().getResource("/imagenes/fondo.jpg")).getImage();
+            g.drawImage(imagen, 0, 0, getWidth(), getHeight(), this);
+
+            setOpaque(false);//This code is for visualize the text
             super.paint(g);
         }
     }

@@ -48,5 +48,5 @@ public class Form_acerca_de extends JFrame {
             super.paint(g);
         }
     }
-    
+
 }

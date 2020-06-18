@@ -12,7 +12,7 @@ public class file_data_venues_sectionals {
      Description: this Class save the info of the students
     */
     public static boolean f_add_venue(String p_code, String p_name, String p_sede,String p_direccion) {
-        //This method create new line into a file Students.txt
+        //This method create new line into a file venues.txt
         boolean result;
         try {
             File myFile = new File("D:/venues.txt");

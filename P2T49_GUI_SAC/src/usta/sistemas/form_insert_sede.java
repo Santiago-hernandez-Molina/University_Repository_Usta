@@ -10,7 +10,6 @@ public class form_insert_sede extends JDialog {
     fondo Fondo = new fondo();
 
     public JTextField txt_code, txt_name, txt_sede,txt_direccion;
-    public static int dir;
 
     public form_insert_sede() {
 
@@ -77,7 +76,7 @@ public class form_insert_sede extends JDialog {
 
     }
     public void f_crear_nueva_sede (java.awt.event.ActionEvent evt){
-        //description: this method
+        //description: this method save the buildings descriptions
         final JDialog ventanaE = new JDialog(this,"saved data",true);
         if (txt_code.getText().length()<3) {
             ventanaE.add(new JLabel("el campo codigo debe tener minimo  3 caracteres"));
