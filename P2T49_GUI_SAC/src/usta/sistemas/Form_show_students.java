@@ -1,5 +1,6 @@
 package usta.sistemas;
-
+// Author: Santiago Hernandez Molina
+//Date:June 16 2020
 import javax.swing.*;
 import java.awt.*;
 
