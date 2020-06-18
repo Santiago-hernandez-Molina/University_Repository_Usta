@@ -5,10 +5,10 @@ package usta.sistemas;
 import javax.swing.*;
 import java.awt.*;
 
-public class Form_show_data_venue extends JDialog {
+public class Form_show_data_buildings extends JDialog {
     //description: this class show all data of venue.txt
 
-    public Form_show_data_venue(java.awt.Frame parent) {
+    public Form_show_data_buildings(java.awt.Frame parent) {
         super(parent, true);
         setLayout(new BorderLayout());
         JPanel panel_sup = new JPanel();
@@ -16,8 +16,8 @@ public class Form_show_data_venue extends JDialog {
         label_m.setFont(new Font("Comic Sans MS",0,20));
         panel_sup.add(label_m);
         String[]columnsNames = {"codigo","nombre","ciudad","direccion"};
-        file_data_venues_sectionals file_data_venue=new file_data_venues_sectionals();
-        JTable tabla_de_datos=new JTable(file_data_venues_sectionals.f_show_data(),columnsNames);
+        file_data_buildings file_data_venue=new file_data_buildings();
+        JTable tabla_de_datos=new JTable(file_data_buildings.f_show_data(),columnsNames);
         tabla_de_datos.setBounds(10,50,590,300);
         JScrollPane panelC= new JScrollPane(tabla_de_datos);
         add(panel_sup,BorderLayout.NORTH);

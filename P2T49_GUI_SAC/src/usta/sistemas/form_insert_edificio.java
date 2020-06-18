@@ -6,13 +6,13 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class form_insert_sede extends JDialog {
+public class form_insert_edificio extends JDialog {
 
     fondo Fondo = new fondo();
 
     public JTextField txt_code, txt_name, txt_sede,txt_direccion;
 
-    public form_insert_sede() {
+    public form_insert_edificio() {
 
         setLayout(new BorderLayout());
         JPanel panel_supp = new JPanel();
@@ -87,8 +87,8 @@ public class form_insert_sede extends JDialog {
             ventanaE.add(new JLabel("el campo codigo debe tener minimo  5 caracteres"));
         }else{
             //grabamos en el archivo
-            file_data_venues_sectionals file_data= new file_data_venues_sectionals();
-            boolean rta =file_data_venues_sectionals.f_add_venue(txt_code.getText(),txt_name.getText(),txt_sede.getText(),txt_direccion.getText());
+            file_data_buildings file_data= new file_data_buildings();
+            boolean rta = file_data_buildings.f_add_venue(txt_code.getText(),txt_name.getText(),txt_sede.getText(),txt_direccion.getText());
             if (rta==true){
                 ventanaE.add(new JLabel("Datos guardados con exito"));
                 txt_code.setText("");

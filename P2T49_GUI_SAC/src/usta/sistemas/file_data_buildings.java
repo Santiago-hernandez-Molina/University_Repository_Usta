@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
 
-public class file_data_venues_sectionals {
+public class file_data_buildings {
     /*
     Author: Santiago Hernandez Molina
     DATE: 16 June 2020

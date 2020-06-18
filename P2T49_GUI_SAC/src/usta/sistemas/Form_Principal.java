@@ -86,7 +86,7 @@ public class Form_Principal extends JFrame {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 //Aqui va el codigo de el boton buttonCS
-                form_insert_sede insert_sede = new form_insert_sede();
+                form_insert_edificio insert_sede = new form_insert_edificio();
             }
         });
         panel_izq.add(buttonCS);
@@ -128,7 +128,7 @@ public class Form_Principal extends JFrame {
     }
 
     private void f_open_Form2(java.awt.event.ActionEvent evt) {
-        Form_show_data_venue form_show_venue1 = new Form_show_data_venue(this);
+        Form_show_data_buildings form_show_venue1 = new Form_show_data_buildings(this);
     }
 
     class fondo extends JPanel {//This class import the image to the code
