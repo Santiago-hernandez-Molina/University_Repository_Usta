@@ -15,12 +15,17 @@ public class Form_acerca_de extends JFrame {
         panel_supp.setBackground(Color.black);
         JLabel label_menu=new JLabel("Acerca de",SwingConstants.CENTER);
         label_menu.setForeground(Color.white);
+
         label_menu.setFont(new Font("Comic Sans MS",0,30));
         panel_supp.add(label_menu);
         JPanel panel_central = new fondo();
         JLabel label_maker = new JLabel("This software was maker by Santiago Hernandez");
         label_maker.setForeground(Color.white);
         panel_central.add(label_maker);
+        JLabel label_maker2 = new JLabel("       Email: santiago.hernandez@usantoto.edu.co");
+        label_maker2.setForeground(Color.white);
+        panel_central.add(label_maker2);
+
         add(panel_central,BorderLayout.CENTER);
         add(panel_supp,BorderLayout.NORTH);
         //parametros del formulario
@@ -43,4 +48,5 @@ public class Form_acerca_de extends JFrame {
             super.paint(g);
         }
     }
+    
 }
