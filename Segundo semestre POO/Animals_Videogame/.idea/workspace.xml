@@ -33,7 +33,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Music/Music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse-workspace/P3T2_info_steam" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -92,10 +92,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606432470845" />
-    <state x="462" y="117" key="FileChooserDialogImpl" timestamp="1607026974525">
+    <state x="462" y="117" key="FileChooserDialogImpl" timestamp="1612400673545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607026974525" />
+    <state x="462" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612400673545" />
     <state width="1321" height="178" key="GridCell.Tab.0.bottom" timestamp="1606499392158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

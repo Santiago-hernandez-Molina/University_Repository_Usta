@@ -5,7 +5,7 @@ import model.Game;
 public class GameController extends AbstractFacade<Game> {
 
 	public GameController() {
-		data=new Game[1];
+		data=new Game[3];
 		
 	}
 	
@@ -14,6 +14,8 @@ public class GameController extends AbstractFacade<Game> {
 	            if(findOne(id) == null ){
 	               Game newGame = new Game(id,name,size);
 	                data[id] = newGame;
+	                
+	                
 
 	            }else
 	                System.err.println("La llave primaria (índice) especificada ya existe");
@@ -23,10 +25,6 @@ public class GameController extends AbstractFacade<Game> {
 	        }catch(NullPointerException e){
 	            e.printStackTrace();
 	            System.err.println("Lo sentimos, no se pudo guardar el rol, porque la estructura es nula");
-	            return false;
-
-	        }catch(ArrayIndexOutOfBoundsException e){
-	            System.err.println("Lo sentimos, no se pudo guardar el rol, porque se permiten máximo " + data.length + " aves");
 	            return false;
 
 	        }catch(Exception e){

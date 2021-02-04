@@ -64,7 +64,7 @@ public void setSize(double size) {
 
 @Override
 public String toString() {
-	return "Game [id=" + id + ", name=" + name + ", size=" + size + "]";
+	return name + ", size: " + size +"\n";
 }
 
 @Override

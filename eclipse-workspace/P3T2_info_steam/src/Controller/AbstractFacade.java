@@ -23,7 +23,7 @@ public abstract class AbstractFacade<T> {
             return false;
 
         }catch(ArrayIndexOutOfBoundsException e){
-            System.err.println("Lo sentimos, no se pudo eliminar el rol, porque se permiten máximo " + data.length + " propietarios");
+            System.err.println("Lo sentimos, no se pudo eliminar el rol, porque se permiten máximo " + data.length + " juegos");
             return false;
 
         }catch(Exception e){
