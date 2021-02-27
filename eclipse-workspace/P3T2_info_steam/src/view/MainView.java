@@ -15,16 +15,7 @@ public class MainView {
 
     public static void main(String[] args) {
 
-        gc = new GameController();
-        
-        gc.save(0, "Apex",32.6);
-        System.out.println(Arrays.toString(gc.list()));
-        
-        gc.save(1, "CSGO",28.0);
-        System.out.println(Arrays.toString(gc.list()));
-        
-        gc.save(2, "Age of Empires II DE",14.6);
-        System.out.println(Arrays.toString(gc.list()));
+       
 
         int menuOption;
 

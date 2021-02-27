@@ -5,8 +5,8 @@ import javax.swing.JOptionPane;
 public class IOManager {
 
     //Show messages
-    public static void showMessage(String message) {
-        JOptionPane.showMessageDialog(null, message);
+    public static void showMessage(String string) {
+        JOptionPane.showMessageDialog(null, string);
     }
 
     //Get custom menu
